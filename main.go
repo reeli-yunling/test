@@ -10,7 +10,7 @@ import (
 	"github.com/micro/go-micro/v2/web"
 
 	//	"github.com/micro/go-plugins/config/source/grpc"
-	_ "webir-go/ad/web/test/local"
+	_ "test/local"
 
 	"github.com/siddontang/go/log"
 )
